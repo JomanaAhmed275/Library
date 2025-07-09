@@ -1,11 +1,11 @@
- Library
+ Quantum Bookstore
 
 This is a Java-based console application that simulates a simple digital bookstore.  
 The project was developed as part of the *Fawry Internship Challenge*.
 
 ---
 
-Features
+🚀 Features
 
 - Add books of various types (Paper, E-Book, Showcase)
 - Remove outdated books by age
