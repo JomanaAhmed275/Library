@@ -27,3 +27,4 @@ The project was developed as part of the *Fawry Internship Challenge*.
 ---
 
  📂 Project Structure
+ ![Program Output](output.png)
