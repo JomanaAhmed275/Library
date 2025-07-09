@@ -1,4 +1,4 @@
- Quantum Bookstore
+ Library 
 
 This is a Java-based console application that simulates a simple digital bookstore.  
 The project was developed as part of the *Fawry Internship Challenge*.
